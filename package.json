@@ -1,0 +1,24 @@
+{
+  "name": "fuckamai",
+  "version": "0.0.1",
+  "description": "make IPFS CDN again",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CommoDor64/fuckamai.git"
+  },
+  "keywords": [
+    "ipfs",
+    "cdn",
+    "akamai"
+  ],
+  "author": "Gal Oz, Dor Cohen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CommoDor64/fuckamai/issues"
+  },
+  "homepage": "https://github.com/CommoDor64/fuckamai#readme"
+}
